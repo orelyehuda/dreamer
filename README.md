@@ -1,6 +1,6 @@
 
 # DREAMER (Deep Dream GIF)
-TensorFlow 2.0
+Frame and GIF creator of Google's deep-dream model. 
 
 
 <DEMOS:>
